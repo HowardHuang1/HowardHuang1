@@ -1,16 +1,18 @@
-### Hi there 👋
-[![Howard Huang's github stats](https://github-readme-stats.vercel.app/api?username=HowardHuang1&show_icons=true&theme=radical)]
-<!--
-**HowardHuang1/HowardHuang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there! 👋
+![Howard Huang's github stats](https://github-readme-stats.vercel.app/api?username=HowardHuang1&show_icons=true&theme=radical&count_private=true)
 
-Here are some ideas to get you started:
+I'm Howard Huang, a self-taught full-stack developer from Silicon Valley!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on several machine learning projects
+- 🌱 I’m currently learning AWS
+
+## Contact Info
+- 📫 Email: [@howardhuang2004@gmail.com](mailto:howardhuang2004@gmail.com)
+
+- 📷 Instagram: [@howard__huang_](https://instagram.com/howard__huang_)
+
+- 💼 LinkedIn: [@howardhuang](https://www.linkedin.com/in/howard-huang-b24465183/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HowardHuang1&layout=compact&theme=radical)
